@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="images/AVAOS_Rec.png" alt="AVAOS" width="420">
+  <img src="images/AVAOS_Back.png" alt="AVAOS" width="1080">
 </h1>
 
 <p align="center">
